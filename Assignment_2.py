@@ -25,12 +25,8 @@ print(type(country))
 #---------------------------
 # Print A Separator Contains 20 Character
 #---------------------------
-n = "Python is an interpreted, high-level and general-purpose\
-    programming language.Created by Guido van Rossum and first\
-    released in 1991, Python is design philosophy emphasizes\
-    code readability with its notable use of significant whitespace."
-
-print(n.split())
+def separator(num):
+    return "#" * num
 
 #---------------------------
 # Concatenate & Print
