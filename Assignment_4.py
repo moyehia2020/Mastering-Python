@@ -1,4 +1,4 @@
-# Assignment_4 (From lesson 11 to 20)
+# Assignment_4 (From lesson 21 to 23)
 # [01] Create A List Contains Your Friends Names (Minimum 8 Friends)
 names = ["Mohamed","Yehia","Ali","Osama","Ahmed","Karim","Alaa","Fawzi"]
 # [02] Print First Name In The List ( With 2 Methods )
